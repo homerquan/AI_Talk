@@ -37,9 +37,8 @@ Revelutionarism：受生物演化启发，武林中的另类，工程师的好�
 * 工程：图像识别，沿时间轴的结构性行为（game，人类行为）
 
 深度：
-学习：self coaching （弗莱克林的例子，吕世浩的例子）
-
-深度理解图片 Demo: semantic road segment https://youtu.be/HJ58dbd5g8g?t=5m49s
+* 学习：self coaching （弗莱克林的例子，吕世浩的例子, Auto encoder decoder)
+* 深度理解图片 Demo: semantic road segment https://youtu.be/HJ58dbd5g8g?t=5m49s
 
 
 文字，语言
@@ -55,6 +54,10 @@ AlphaGo (完整的知识,无穷的运算)
 
 也许正确的问题是：人工智能应该做什么，默认的共识“为了更近一步的自动化”，但是代价是什么？可以参考
 
+## AI对我们的影响
+
+* 威胁
+* 教育
 
 ## 未来 (possibilities)
 
