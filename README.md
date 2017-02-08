@@ -2,7 +2,7 @@
 
 ## 何为智能
 
-认知(Cogatived)+知识 
+认知(cognition)+知识 
 
 hint: 认知能力的欠缺不是知识能弥补的
 
