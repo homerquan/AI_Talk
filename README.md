@@ -42,7 +42,9 @@ hint: 谈谈the master of algorithm
   * ImageNet (Feifei Li)
   * semantic road segment https://youtu.be/HJ58dbd5g8g?t=5m49s
 * 结构行为: 游戏 https://youtu.be/qv6UVOQ0F44?t=46s （Seq2seq, LSTM，DNM）
-* 语言：http://yerevann.com/dmn-ui/#/
+* 语言：
+  * https://deepmind.com/blog/wavenet-generative-model-raw-audio/
+  * http://yerevann.com/dmn-ui/#/
 
 
 ## AI对我们的影响
@@ -59,8 +61,7 @@ hint: 谈谈the master of algorithm
   * Demo: https://youtu.be/GYQrNfSmQ0M?t=14m59s
 * 所有人类积累知识的表达
 
-危险：singularity. 现在不用担心人工智能取代人类(尽管一些人不这么认为），因为最多它只能“解决问题”。 真正的智能需要提出问题，自主学习，听取反馈，付诸实践(路灯的例子)。也许我们应该关心的问题是：人工智能应该做什么，默认的共识“为了更近一步的自动化”，但是代价是什么？
-
+危险：singularity. 现在不用担心人工智能取代人类(尽管一些人不这么认为, 一个显著的例子是对于deep learning 我们解决问题，但不知道机器如何解决），我的想法：因为最多它只能“解决问题”。 真正的智能需要提出问题，自主学习，听取反馈，付诸实践(路灯的例子)。也许我们应该关心的问题是：人工智能应该做什么，默认的共识“为了更近一步的自动化”，但是代价是什么？
 
 
 hint: 谈谈 The Glass Cage
