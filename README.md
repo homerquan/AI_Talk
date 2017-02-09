@@ -42,7 +42,7 @@ hint: 谈谈the master of algorithm
   * ImageNet (Feifei Li)
   * semantic road segment https://youtu.be/HJ58dbd5g8g?t=5m49s
 * 结构行为: 
-  * 游戏 https://youtu.be/qv6UVOQ0F44?t=46s （Seq2seq, LSTM，DNM）
+  * 游戏 https://youtu.be/qv6UVOQ0F44?t=46s （Seq2seq, LSTM，DNM）https://www.youtube.com/watch?v=N47HkZ88ou4 (IRL)
   * AlphaGo
   * Poker 不完整数据，博弈 https://www.quora.com/How-do-you-explain-Inverse-Reinforcement-Learning-in-layman-terms
 * 语言：
