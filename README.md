@@ -2,7 +2,7 @@
 
 ## 何为智能
 
-认知(cognition: Model the Mind)+知识 
+认知(perceptual cognition)+知识 
 hint: 认知能力的欠缺不是知识能弥补的
 
 ## 何为人工智能
