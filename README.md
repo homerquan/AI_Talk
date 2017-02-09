@@ -42,6 +42,7 @@ hint: 谈谈the master of algorithm
 * 深度理解图片: 
   * ImageNet (Feifei Li)
   * semantic road segment https://youtu.be/HJ58dbd5g8g?t=5m49s
+  * attention: https://www.youtube.com/watch?v=fZvOy0VXWAI (tiger in the jungle)
 * 结构行为: 
   * 游戏 https://youtu.be/qv6UVOQ0F44?t=46s （Seq2seq, LSTM，DNM）https://www.youtube.com/watch?v=N47HkZ88ou4 (IRL)
   * AlphaGo
