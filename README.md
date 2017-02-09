@@ -15,7 +15,8 @@ Hint: 自动回复邮件的例子
 
 * Model the world
   * Symbolitic：康德的理性主义, 把自然法则(logic)转换为机器可以理解的模型（这是一杯水，水可以喝，我可以喝这杯东西）
-
+  * Bayesianism: 用统计方法获得世界的模型
+  
 * Model the mind
   * Connectionist：神经网络，两个现象之间有关联, 吸收原始数据 raw data (鹦鹉学舌)
   * Revelutionarism：受生物演化启发，武林中的另类，工程师的好工具（alphaGo中互相对弈)
