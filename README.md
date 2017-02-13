@@ -3,6 +3,7 @@
 ## 何为智能
 
 认知(perceptual cognition)+知识 
+
 hint: 认知能力的欠缺不是知识能弥补的
 
 ## 何为人工智能
@@ -44,8 +45,9 @@ hint: 谈谈the master of algorithm
   * semantic road segment https://youtu.be/HJ58dbd5g8g?t=5m49s
   * attention: https://www.youtube.com/watch?v=fZvOy0VXWAI (tiger in the jungle)
 * 结构行为: 
-  * 游戏 https://youtu.be/qv6UVOQ0F44?t=46s （Seq2seq, LSTM，DNM）https://www.youtube.com/watch?v=N47HkZ88ou4 (IRL)
-  * video https://www.youtube.com/watch?v=btr1poCYIzw
+  * 游戏 https://youtu.be/qv6UVOQ0F44?t=46s （Seq2seq, LSTM，DNM）
+  * 游戏2 https://www.youtube.com/watch?v=N47HkZ88ou4 (IRL)
+  * video https://www.youtube.com/watch?v=btr1poCYIzw
   * AlphaGo
   * Poker 不完整数据，博弈 https://www.quora.com/How-do-you-explain-Inverse-Reinforcement-Learning-in-layman-terms
 * 语言：
