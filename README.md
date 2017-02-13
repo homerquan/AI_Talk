@@ -45,7 +45,8 @@ hint: 谈谈the master of algorithm
   * attention: https://www.youtube.com/watch?v=fZvOy0VXWAI (tiger in the jungle)
 * 结构行为: 
   * 游戏 https://youtu.be/qv6UVOQ0F44?t=46s （Seq2seq, LSTM，DNM）https://www.youtube.com/watch?v=N47HkZ88ou4 (IRL)
-  * AlphaGo
+  * video https://www.youtube.com/watch?v=btr1poCYIzw
+  * AlphaGo
   * Poker 不完整数据，博弈 https://www.quora.com/How-do-you-explain-Inverse-Reinforcement-Learning-in-layman-terms
 * 语言：
   * https://deepmind.com/blog/wavenet-generative-model-raw-audio/
