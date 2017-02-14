@@ -46,6 +46,7 @@ hint: 学习方法：1.自省 unsupervised 2. 从失败中 supervised 3. 从别�
   * ImageNet (Feifei Li)
   * semantic road segment https://youtu.be/HJ58dbd5g8g?t=5m49s
   * attention: https://www.youtube.com/watch?v=fZvOy0VXWAI (tiger in the jungle)
+  * Generative Adversarial Networks
 * 结构行为: 
   * 游戏 https://youtu.be/qv6UVOQ0F44?t=46s （Seq2seq, LSTM，DNM）
   * 游戏2 https://www.youtube.com/watch?v=N47HkZ88ou4 (IRL)
