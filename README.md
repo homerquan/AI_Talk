@@ -38,6 +38,8 @@ hint: 谈谈the master of algorithm
 * 理论：Deep learning（弗莱克林的例子，吕世浩的例子, Auto encoder decoder)，脑神经学中的成果
 * 工程：图像识别，语言理解，沿时间轴的结构性行为（game，人类行为）
 
+hint: 学习方法：1.自省 unsupervised 2. 从失败中 supervised 3. 从别人那里 IRL
+
 ### 深度学习的例子
 
 * 深度理解图片: 
