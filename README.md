@@ -85,5 +85,6 @@ hint: 谈谈 The Glass Cage
 * Professor Stuart Russell - The Long-Term Future of (Artificial) Intelligence (Youtube)
 * Report: one hundred year study on artificial intelligence（2016.9 stanford university）
 * Some up-to-date technologies: https://www.youtube.com/watch?v=eyovmAtoUx0&feature=youtu.be&t=14049
+* Mario IO: https://github.com/aleju/mario-ai
 * 书籍: the master of algorithm 通俗的介绍人工智能
 * 书籍: The Glass Cage: Automation and Us 人工智能对我们的影响
